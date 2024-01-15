@@ -1,0 +1,11 @@
+C:\01_Szoftverfejlesztő és tesztelő technikus\Boros_Tanárúr\Beadandó feledatok_2023_01_14\SzuletesekSzama\Display\Vasmegye\Vasmegye\obj\Debug\Vasmegye.csproj.AssemblyReference.cache
+C:\01_Szoftverfejlesztő és tesztelő technikus\Boros_Tanárúr\Beadandó feledatok_2023_01_14\SzuletesekSzama\Display\Vasmegye\Vasmegye\obj\Debug\Vasmegye.csproj.SuggestedBindingRedirects.cache
+C:\01_Szoftverfejlesztő és tesztelő technikus\Boros_Tanárúr\Beadandó feledatok_2023_01_14\SzuletesekSzama\Display\Vasmegye\Vasmegye\obj\Debug\Vasmegye.GrafikusFelulet.resources
+C:\01_Szoftverfejlesztő és tesztelő technikus\Boros_Tanárúr\Beadandó feledatok_2023_01_14\SzuletesekSzama\Display\Vasmegye\Vasmegye\obj\Debug\Vasmegye.Properties.Resources.resources
+C:\01_Szoftverfejlesztő és tesztelő technikus\Boros_Tanárúr\Beadandó feledatok_2023_01_14\SzuletesekSzama\Display\Vasmegye\Vasmegye\obj\Debug\Vasmegye.csproj.GenerateResource.cache
+C:\01_Szoftverfejlesztő és tesztelő technikus\Boros_Tanárúr\Beadandó feledatok_2023_01_14\SzuletesekSzama\Display\Vasmegye\Vasmegye\obj\Debug\Vasmegye.csproj.CoreCompileInputs.cache
+C:\01_Szoftverfejlesztő és tesztelő technikus\Boros_Tanárúr\Beadandó feledatok_2023_01_14\SzuletesekSzama\Display\Vasmegye\Vasmegye\bin\Debug\Vasmegye.exe.config
+C:\01_Szoftverfejlesztő és tesztelő technikus\Boros_Tanárúr\Beadandó feledatok_2023_01_14\SzuletesekSzama\Display\Vasmegye\Vasmegye\bin\Debug\Vasmegye.exe
+C:\01_Szoftverfejlesztő és tesztelő technikus\Boros_Tanárúr\Beadandó feledatok_2023_01_14\SzuletesekSzama\Display\Vasmegye\Vasmegye\bin\Debug\Vasmegye.pdb
+C:\01_Szoftverfejlesztő és tesztelő technikus\Boros_Tanárúr\Beadandó feledatok_2023_01_14\SzuletesekSzama\Display\Vasmegye\Vasmegye\obj\Debug\Vasmegye.exe
+C:\01_Szoftverfejlesztő és tesztelő technikus\Boros_Tanárúr\Beadandó feledatok_2023_01_14\SzuletesekSzama\Display\Vasmegye\Vasmegye\obj\Debug\Vasmegye.pdb
